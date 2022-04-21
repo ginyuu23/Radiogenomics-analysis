@@ -1,0 +1,1 @@
+pyradiomics /Path of the file (.csv) for your images and masks/ --param /Path of setting file (.yaml) for feature extraction/ -o FILENAME.csv -f csv

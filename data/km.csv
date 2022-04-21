@@ -1,0 +1,25 @@
+Case ID,random111,Duration,SurvivalStatus,express,test
+R01-003,test,666,0,normal/over,low
+R01-005,test,1548,1,normal/over,low
+R01-015,test,472,1,low,low
+R01-024,test,521,1,normal/over,low
+R01-026,test,2408,1,normal/over,normal/over
+R01-033,test,528,1,normal/over,normal/over
+R01-034,test,2600,0,normal/over,normal/over
+R01-035,test,1814,1,normal/over,low
+R01-038,test,205,0,normal/over,normal/over
+R01-056,test,2115,0,normal/over,normal/over
+R01-071,test,1447,1,low,low
+R01-081,test,1975,0,normal/over,normal/over
+R01-089,test,1794,0,normal/over,normal/over
+R01-096,test,1838,0,normal/over,normal/over
+R01-102,test,375,0,low,normal/over
+R01-106,test,14,1,low,low
+R01-109,test,1840,0,normal/over,normal/over
+R01-114,test,1618,0,normal/over,low
+R01-121,test,1209,0,low,low
+R01-125,test,1511,0,low,normal/over
+R01-130,test,258,0,normal/over,normal/over
+R01-135,test,21,0,low,normal/over
+R01-142,test,1148,0,normal/over,normal/over
+R01-145,test,763,0,normal/over,normal/over
